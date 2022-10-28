@@ -1,0 +1,8 @@
+schema_version: 20180708
+name: custom-docker
+version: 0.0.19
+runtime: docker
+triggers:
+- name: custom-docker-trigger
+  type: http
+  source: /custom-docker

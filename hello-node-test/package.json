@@ -1,0 +1,17 @@
+{
+	"name": "hellofn",
+	"version": "1.0.0",
+	"description": "example function",
+	"main": "func.js",
+	"author": "",
+	"license": "Apache-2.0",
+	"dependencies": {
+		"@fnproject/fdk": ">=0.0.41"
+	},
+	"devDependencies": {
+		"jest": "^29.1.2"
+	},
+	"scripts": {
+		"test": "jest"
+	}
+}
